@@ -16,11 +16,16 @@ A cybersecurity project that detects phishing URLs using Regular Expressions (Re
 - JFLAP / Graphviz
 
 ## Project Structure
-├── src/
+├── src/    
+
 ├── datasets/
+
 ├── diagrams/
+
 ├── docs/
+
 │   └── Project_Proposal.pdf
+
 └── README.md
 
 ## Sample Input
